@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Dezs%C5%91_Czig%C3%A1ny
     - https://hu.wikipedia.org/wiki/Czig%C3%A1ny_Dezs%C5%91
+covers:
+- cover_type: archival
+  image_path: 64958-h/images/cover.jpg
 creator:
   author:
     agent_name: Rákosi, Jenő
@@ -41,6 +44,8 @@ creator:
     - https://hu.wikipedia.org/wiki/Mikszáth_Kálmán_(író)
     - https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64958#A-legnagyobb-bolond-Regeny
 gutenberg_issued: '2021-03-29'
 gutenberg_type: Text
 identifiers:
