@@ -1,0 +1,57 @@
+_repo: A-legnagyobb-bolond-Regeny_64958
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Czigány, Dezső
+    aliases:
+    - Wimmer, Dezső
+    - Czigány, Dezso
+    - Czigany, Dezso
+    birthdate: 1883
+    deathdate: 1937
+    gutenberg_agent_id: '53114'
+    url: http://www.gutenberg.org/2009/agents/53114
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Dezs%C5%91_Czig%C3%A1ny
+    - https://hu.wikipedia.org/wiki/Czig%C3%A1ny_Dezs%C5%91
+creator:
+  author:
+    agent_name: Rákosi, Jenő
+    aliases:
+    - Rakosi, Jeno
+    - Kremsner, Eugene
+    - Rákosi, Jeno
+    birthdate: 1842
+    deathdate: 1929
+    gutenberg_agent_id: '52788'
+    url: http://www.gutenberg.org/2009/agents/52788
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jen%C5%91_R%C3%A1kosi
+    - https://hu.wikipedia.org/wiki/R%C3%A1kosi_Jen%C5%91
+  editor:
+    agent_name: Mikszáth, Kálmán
+    aliases:
+    - Mikszath, Kalman
+    - Kálmán Mikszáth
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '26008'
+    url: http://www.gutenberg.org/2009/agents/26008
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/Mikszáth_Kálmán_(író)
+    - https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
+description: ''
+gutenberg_issued: '2021-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64958'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction -- 19th century'
+- !lcc 'PH'
+- GITenberg
+title: 'A legnagyobb bolond: Regény'
+url: http://www.gutenberg.org/ebooks/64958
